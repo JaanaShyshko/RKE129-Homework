@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {background-color: beige;
+text-align: center;}
+
+.koostisosad {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.koostiosad-table {
+    margin: 0 auto
+}
+
+.instruktsioonid {
+    border: 2px solid black;
+    width: 30%;
+    margin: 0 auto;
+    text-align: left;
+    -webkit-text-fill-color: brown;
+}
+
+.pealkiri {
+    font-family: 'Bebas Neue', sans-serif;
+}
